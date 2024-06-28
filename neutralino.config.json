@@ -17,7 +17,9 @@
       "minWidth": 400,
       "minHeight": 200,
       "icon": "/public/logo192.png",
-      "borderless": false
+      "borderless": false,
+      "trasparent": true,
+      "useSavedState": true
     }
   },
   "cli": {
